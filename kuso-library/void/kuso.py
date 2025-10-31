@@ -1,0 +1,2 @@
+import kuso
+kuso.dasu()
